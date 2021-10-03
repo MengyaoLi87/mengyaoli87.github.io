@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Mengyao Li"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. student in Industrial Engineering Department at University of Wisconsin Madison."
   location         : "Madison, WI"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9hxiv7cAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Mengyao-Li-2" # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
